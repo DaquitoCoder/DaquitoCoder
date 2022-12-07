@@ -2,7 +2,7 @@
 #### I'm 21 years old, i study software development.
 ## Skills
 
-
+<div style="display:flex;"> 
 <img alt="HTML5"  width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img alt="CSS"  width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -14,7 +14,7 @@
 <img alt="Java" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" height="100">
 
 <img alt="Bootstrap" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
+</div>
 <br/>
 
 ---
