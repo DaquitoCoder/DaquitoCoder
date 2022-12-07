@@ -1,5 +1,5 @@
 ## Hi there, Dac here. 👋
-#### I'm 20 years old, i study software development.
+#### I'm 21 years old, i study software development.
 ## Skills
 
 <img alt="Python" align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
