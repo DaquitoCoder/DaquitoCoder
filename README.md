@@ -2,7 +2,7 @@
 #### I'm 21 years old, i study software development.
 ## Skills
 
-<div style="display:flex; align-items: center"> 
+<div style="display:flex; align-content: center"> 
 <img alt="HTML5"  width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img alt="CSS"  width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
