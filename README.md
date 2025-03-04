@@ -2,7 +2,7 @@
 🔭 I'm currently creating projects for my portfolio
 <br>🌱 I'm learning Advanced Java and React JS
 <br>🫡 I'm open to work with anyone
-<br>⭐ I'm 22. I'm front-end developer and i'm from Colombia
+<br>⭐ I'm 23. I'm front-end developer and i'm from Colombia
 <br>🌎 How to reach me? juan.aleon2001@gmail.com
 
 
